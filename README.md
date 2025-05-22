@@ -1,4 +1,4 @@
-# TP02 – Dance Move Classification Using Scikit-learn
+# Submission #2 – Dance Move Classification Using Scikit-learn
 
 This project is part of the CS506 Programming for Computing course. Our goal was to classify basic dance poses using movement-based features extracted from OpenPose-generated JSON files. The work demonstrates a supervised learning pipeline using Scikit-learn.
 
