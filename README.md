@@ -15,6 +15,7 @@ This project is part of the CS506 Programming for Computing course. Our team’s
 ├── augment_poses.py                     # Standalone script to generate mirrored and jittered pose data
 ├── poses/                               # Folder containing all raw and augmented JSON pose data
 ├── README.md                            # This file
+├── TP02-Presentation-links.md           # Links to prsentation slides and video
 
 🔧 Custom Components
 sub1_pose_utils.py (Submission #1)
