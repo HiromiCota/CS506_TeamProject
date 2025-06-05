@@ -4,3 +4,4 @@ __pycache__/
 *.Xerror*
 *.original.*
 *.ipynb_checkpoints/
+.DS_Store
